@@ -1,0 +1,14 @@
+[package]
+name = "gmcm-thesis-typst"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["LiuLiaoYu"]
+license = "MIT"
+description = "研究生数学建模竞赛论文模板(2025) | GMCM Thesis Template 2025"
+categories = ["thesis"]
+keywords = ["GMCM", "2025", "thesis", "template"]
+
+[template]
+path = "template"
+entrypoint = "example.typ"
+thumbnail = "thumbnail.png"
