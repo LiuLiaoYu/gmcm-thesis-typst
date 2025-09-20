@@ -28,3 +28,7 @@ typst init "@preview/gmcm-thesis-typst:0.1.0"
 ```
 
 > 如果不在preview命名空间下，修改至对应命名空间即可
+
+## 已知问题
+
+1. 题目没居中，需要手动修改；

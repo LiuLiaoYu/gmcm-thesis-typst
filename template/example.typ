@@ -1,7 +1,7 @@
 #import "@preview/cuti:0.3.0": show-cn-fakebold
 #show: show-cn-fakebold // 提供中文粗体
 
-#import "@local/gmcm-thesis-typst:0.1.0": *
+#import "@preview/gmcm-thesis-typst:0.1.0": *
 
 
 #let info = (
