@@ -34,7 +34,7 @@
   set page(footer: context align(center, text(size: size5s, counter(page).display("1"))), numbering: "1")
   counter(page).update(n => 1)
 
-  set text(font: ("Times New Roman", "SimSun"), size: size4s)
+  set text(font: ("Times New Roman", "SimSun"), size: size4s, lang: "zh")
   set par(first-line-indent: (amount: 2em, all: true), justify: true)
 
   set heading(numbering: numbly("第{1:一}章", "{1}.{2}"))
